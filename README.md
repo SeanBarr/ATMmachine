@@ -12,7 +12,8 @@ Modifying the user interface to require users to select deposit or withdraw befo
 
 ![ATM preview picture](https://github.com/SeanBarr/atm-machine/blob/main/image/preview.png?raw=true)
 
-Git Clone to run: git@github.com:SeanBarr/atm-machine.git
+Git Clone to run: 
+git clone github.com/SeanBarr/atm-machine.git
 
 Live Demo Link: https://seanbarr.github.io/atm-machine
 
