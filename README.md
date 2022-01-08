@@ -9,4 +9,11 @@ Simple React ATM
 ATM Improvements
 Adding validation so users can’t withdraw more money than the account balance
 Modifying the user interface to require users to select deposit or withdraw before an input field is visible
-<img src="./atm.png" />
+
+![ATM preview picture](https://github.com/SeanBarr/atm-machine/blob/main/image/preview.png?raw=true)
+
+Git Clone to run: git@github.com:SeanBarr/atm-machine.git
+
+Live Demo Link: https://seanbarr.github.io/atm-machine
+
+MIT License: https://opensource.org/licenses/MIT
